@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Enterprise Language",
+    "slug": "Enterprise Language",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/engrenagem.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#58A6ff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
